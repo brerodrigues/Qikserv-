@@ -1,0 +1,16 @@
+server:
+  port: 8080
+
+info:
+  app:
+    description: QikServe Challenge Breno Silva
+    name: QikServe Challenge
+    version: 0.0.1
+
+app:
+  wiremockUrl: http://localhost:9090
+
+spring:
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
