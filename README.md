@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-This project is a solution to the Quikserve challenge. It is built using Java and the Spring Boot framework.
+This project is a solution to the Qikserve challenge. It is built using Java and the Spring Boot framework.
 
 ### Dependencies
 
