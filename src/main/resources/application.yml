@@ -1,5 +1,5 @@
 server:
-  port: 8080
+  port: 8181
 
 info:
   app:
@@ -7,8 +7,8 @@ info:
     name: QikServe Challenge
     version: 0.0.1
 
-app:
-  wiremockUrl: http://localhost:9090
+apis:
+  wiremock-base-url: http://localhost:9999
 
 spring:
   mvc:
