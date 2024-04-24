@@ -2,7 +2,7 @@
 
 1. **How long did you spend on the test? What would you add if you had more time?**
    - *Response:* 
-     I spent 12 hours on the test. If I had more time, I would have focused on implementing additional functionalities such as enhanced support for adding Products with different structures, implementing persistence, implementing user authentication and session management, and adding more features to the shopping cart. Additionally, I would have created a Dockerfile for containerization.
+     I spent 12 hours on the test. If I had more time, I would have focused on implementing additional functionalities such as enhanced support for adding Products with different structures, persistence, user authentication and session management, and adding more features to the shopping cart. Additionally, I would have created a Dockerfile for containerization.
 
 2. **What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.**
    
