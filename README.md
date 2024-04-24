@@ -1,7 +1,8 @@
 # QikServe technical test
 
 - [Answers for the following up questions](https://github.com/brerodrigues/Qikserv-Technical-Test/blob/master/follow-up-question.md)
-- [Answer for the main question](https://github.com/brerodrigues/Qikserv-Technical-Test/blob/master/main-question.md) 
+- [Answer for the main question](https://github.com/brerodrigues/Qikserv-Technical-Test/blob/master/main-question.md)
+- [Thought process](https://github.com/brerodrigues/Qikserv-Technical-Test/blob/master/thought-process.md)
 
 ## Project Overview
 
