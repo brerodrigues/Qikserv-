@@ -8,6 +8,41 @@
 
 This project is a solution to the Qikserve challenge. It is built using Java and the Spring Boot framework.
 
+## API Usage Instructions
+
+### Get Products
+- Retrieve all products:
+```bash
+curl --location --request GET 'http://localhost:8181/products'
+```
+
+- Retrieve a specific product by ID:
+```bash
+curl --location --request GET 'http://localhost:8181/products/{product_id}'
+```
+
+### Shopping Cart Operations
+
+- Retrieve all products in the shopping cart:
+```bash
+curl --location --request GET 'http://localhost:8181/cart/items'
+```
+
+- Add a product to the shopping cart by its ID:
+```bash
+curl --location --request POST 'http://localhost:8181/cart/add/{product_id}'
+```
+- Retrieve the total value of the items in the shopping cart:
+```bash
+curl --location --request GET 'http://localhost:8181/cart/total'
+```
+- Retrieve the total savings achieved through promotions applied to the shopping cart:
+```bash
+curl --location --request GET 'http://localhost:8181/cart/savings'
+```
+
+## Project information
+
 ### Dependencies
 
 - **Spring Boot Starter Web**: Starter for building web, including RESTful, applications using Spring MVC.
